@@ -27,7 +27,7 @@ numpy==1.16.1
 oauthlib==3.0.1
 pandas==0.24.1
 pathspec==0.5.9
-Pillow==6.0.0
+Pillow==9.3.0
 pipenv==2018.11.26
 pycodestyle==2.5.0
 pylint==2.3.1
